@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/aditya-naik-b42a64284/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
     <a href="https://github.com/Adityanaik1818"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" /></a>
+    <a href="https://leetcode.com/u/yaEuG6rCPF/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" /></a>
     <a href="mailto:adityanaik756@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
   </p>
 </div>
@@ -27,15 +27,21 @@
 
 ## 👨‍💻 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  I regularly practice Data Structures and Algorithms to improve my problem-solving skills.
-</p>
+  <a href="https://leetcode.com/u/yaEuG6rCPF/">
+    <img src="https://img.shields.io/badge/LeetCode-yaEuG6rCPF-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+
+  <p>
+    I regularly practice Data Structures and Algorithms to improve my problem-solving skills.
+  </p>
+
+  <a href="https://leetcode.com/u/yaEuG6rCPF/">
+    <b>View My LeetCode Profile →</b>
+  </a>
+
+</div>
 
 ---
 
