@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>Hi there, I'm Aditya Naik 👋</h1>
   <h3>Java Backend Developer | AI/ML Enthusiast | MCA Student @ DYPIU</h3>
   
@@ -7,6 +7,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/aditya-naik-b42a64284/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
     <a href="https://github.com/Adityanaik1818"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" /></a>
     <a href="mailto:adityanaik756@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
   </p>
 </div>
@@ -21,6 +22,20 @@
 - 🤖 Exploring Data Engineering, Machine Learning, and advanced prompt engineering for text-to-image AI tools.
 - 🌱 Currently strengthening my knowledge in **DSA, Cloud DevOps, and Scalable Application Architecture**.
 - 📍 Based in Maharashtra, India.
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
+
+<p align="center">
+  I regularly practice Data Structures and Algorithms to improve my problem-solving skills.
+</p>
 
 ---
 
@@ -47,19 +62,23 @@
 
 ### 🏥 Hospital Management System
 A comprehensive web-based hospital administration application built on an MVC architecture. Designed to seamlessly manage patient records, doctor schedules, appointments, and administrative workflows.
-*   **Tech:** Java, JSP/Servlets, Maven, MySQL, Apache
 
-### 🥛 Milk Product Shop Management 
+* **Tech:** Java, JSP/Servlets, Maven, MySQL, Apache
+
+### 🥛 Milk Product Shop Management
 Engineered the complete system architecture and database design for a milk product retail platform. Focused on creating optimized Entity-Relationship Diagrams (ERD) and Data Flow Diagrams (DFD) to map complex inventory and sales logic.
-*   **Tech:** System Design, Database Architecture, SQL
+
+* **Tech:** System Design, Database Architecture, SQL
 
 ### 🤖 AI Financial Chatbot
 An intelligent chatbot utilizing NLP techniques to interpret user inquiries and match them with highly accurate financial responses.
-*   **Tech:** Python, FastAPI, Scikit-learn, TF-IDF, Cosine Similarity
+
+* **Tech:** Python, FastAPI, Scikit-learn, TF-IDF, Cosine Similarity
 
 ### 🏦 Bank Management System
 A secure, backend-focused Java application demonstrating core banking operations, transaction handling, and advanced Object-Oriented Programming (OOP) concepts.
-*   **Tech:** Java, OOP, MySQL
+
+* **Tech:** Java, OOP, MySQL
 
 ---
 
@@ -84,7 +103,6 @@ A secure, backend-focused Java application demonstrating core banking operations
 </div>
 
 <br>
-
 
 <div align="center">
   <i>⭐ Always learning. Always building. Always improving. ⭐</i><br>
